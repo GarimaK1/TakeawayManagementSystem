@@ -1,5 +1,5 @@
 # TakeawayManagementSystem
-DatabaseManagementDatabaseDesign final project using MySql and MySql Workbench
+Final project submission for Database Management and Database Design course, NEU, Fall 2018 using MySql and MySql Workbench
 
 ### Description of contents:
 
